@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2013-01-16 23:18:43+00:00
 layout: post
-slug: 201301personal-debt-end-of-year-wrap-up
+slug: personal-debt-end-of-year-wrap-up
 title: 'Personal Debt: End Of Year Wrap Up'
 wordpress_id: 19
 categories:
@@ -14,11 +14,9 @@ At the begining of the year, I started a series of blog posts loosely based on a
 
 Take a look at the final results for my debt at the start of December 2012, and then the final results on 31 December.
 
-So you can clearly see that instead of a healthy £3000 reduction, I've managed to increase my debt by £1100. Needless to say I'm not happy but when I reflect on the year it's clear why.
+So you can clearly see that instead of a healthy £3000 reduction, I've managed to increase my debt by £1100. Needless to say I'm not happy but when I reflect on the year it's clear why.  
 
-
-  
-      ![](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbe314e4b09c7c8a7a00a7/1358684949084/debt-dec-2012.png)
+![](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbe314e4b09c7c8a7a00a7/1358684949084/debt-dec-2012.png)
   
 
 
