@@ -16,7 +16,7 @@ twitter_username: domster
 github_username:  dombarnes
 
 owner:
-  name:           John Davison
+  name:           Dom Barnes
   # avatar:         railstutor.png
   email:          dom@dombarnes.com
   conversion:     http://jekyll.dombarnes.com
@@ -37,8 +37,6 @@ links:
   - title: Contact
     url: /contact
   - title: Projects
-    url: /projects
-  - title: Chromium Updater
     url: /projects/chromium-updater.html
   - title: Colophon
     url: /colophon
