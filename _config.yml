@@ -35,11 +35,11 @@ links:
   - title: Home
     url: /
   - title: Contact
-    url: /contact
+    url: /contact.html
   - title: Projects
     url: /projects/chromium-updater.html
   - title: Colophon
-    url: /colophon
+    url: /colophon.html
 
 timezone:    Europe/London
 
