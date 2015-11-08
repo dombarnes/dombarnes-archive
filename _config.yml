@@ -9,16 +9,53 @@
 title: Dom Barnes
 email: dom@dombarnes.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Writing for writings sake.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jekyll.dombarnes.com" # the base hostname & protocol for your site
 twitter_username: domster
 github_username:  dombarnes
 
+owner:
+  name:           John Davison
+  # avatar:         railstutor.png
+  email:          dom@dombarnes.com
+  conversion:     http://jekyll.dombarnes.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:       domster
+  github:        dombarnes
+  stackexchange:
+  linkedin:      dombarnes
+  instagram:     dombarnes
+  flickr:        domster83
+  tumblr:        dombarnes
+  # For Google Authorship https://plus.google.com/authorship
+  # google_plus:    https://plus.google.com/u/0/+JohnDavison-railstutor/?rel=author
+
+links:
+  - title: Home
+    url: /
+  - title: Contact
+    url: /contact
+  - title: Projects
+    url: /projects
+  - title: Chromium Updater
+    url: /projects/chromium-updater.html
+  - title: Colophon
+    url: /colophon
+
+timezone:    Europe/London
+
 # Build settings
 markdown: kramdown
-
-gems: ['kramdown']
+gems: ['kramdown', 'jekyll-paginate']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+collections:
+- projects
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Dom Barnes"

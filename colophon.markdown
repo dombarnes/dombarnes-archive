@@ -1,5 +1,5 @@
 ---
-author: domster83
+
 comments: false
 date: 2015-11-05 18:00:09+00:00
 layout: page
