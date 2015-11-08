@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-10-05 18:18:01+00:00
 layout: post
-slug: 200710howto-make-a-disc-image-from-a-video_ts-folder-for-free
+slug: howto-make-a-disc-image-from-a-video_ts-folder-for-free
 title: 'HOWTO: Make a disc image from a VIDEO_TS folder for free'
 wordpress_id: 136
 categories:
@@ -25,7 +25,7 @@ Once you have your VIDEO_TS folder (from a personally owned DVD, not copyrighted
 
 
 <blockquote>hdiutil makehybrid -o MOVIE_NAME ~/MOVIE_NAME/ -udf
-> 
+>
 > </blockquote>
 
 

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-04-29 22:00:13+00:00
 layout: post
-slug: 200704the-long-winters-behind-the-scenes
+slug: the-long-winters-behind-the-scenes
 title: The Long Winters - Behind The Scenes
 wordpress_id: 171
 categories:

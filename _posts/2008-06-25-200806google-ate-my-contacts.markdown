@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-06-25 21:56:58+00:00
 layout: post
-slug: 200806google-ate-my-contacts
+slug: google-ate-my-contacts
 title: Google Ate my Contacts
 wordpress_id: 79
 categories:

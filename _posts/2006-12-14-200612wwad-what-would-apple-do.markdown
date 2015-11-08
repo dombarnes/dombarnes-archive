@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2006-12-14 17:42:44+00:00
 layout: post
-slug: 200612wwad-what-would-apple-do
+slug: wwad-what-would-apple-do
 title: WWAD? - What would Apple Do?
 wordpress_id: 209
 categories:

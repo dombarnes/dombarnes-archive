@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-12-16 19:54:52+00:00
 layout: post
-slug: 200712in-the-trenches-permanently
+slug: in-the-trenches-permanently
 title: In The Trenches - Permanently!
 wordpress_id: 112
 categories:

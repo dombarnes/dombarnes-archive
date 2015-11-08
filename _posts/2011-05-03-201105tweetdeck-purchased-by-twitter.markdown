@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2011-05-03 14:16:05+00:00
 layout: post
-slug: 201105tweetdeck-purchased-by-twitter
+slug: tweetdeck-purchased-by-twitter
 title: Tweetdeck Purchased By Twitter
 wordpress_id: 50
 categories:

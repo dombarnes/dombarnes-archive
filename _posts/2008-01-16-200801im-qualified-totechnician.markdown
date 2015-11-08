@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-01-16 22:31:55+00:00
 layout: post
-slug: 200801im-qualified-totechnician
+slug: im-qualified-totechnician
 title: I'm qualified to...Technician
 wordpress_id: 105
 categories:

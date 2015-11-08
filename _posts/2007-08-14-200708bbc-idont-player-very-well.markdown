@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-08-14 09:47:55+00:00
 layout: post
-slug: 200708bbc-idont-player-very-well
+slug: bbc-idont-player-very-well
 title: BBC iDon't-Player-very-well
 wordpress_id: 151
 categories:
@@ -26,7 +26,7 @@ Windows Media Player 10 (or later)
 A video and sound card capable of playing high quality streamed or downloaded programmes
 JavaScript, ActiveX and Cookies are all enabled
 A high speed broadband internet connection
-> 
+>
 > </blockquote>
 
 

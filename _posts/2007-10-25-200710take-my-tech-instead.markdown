@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-10-25 23:23:27+00:00
 layout: post
-slug: 200710take-my-tech-instead
+slug: take-my-tech-instead
 title: Take my tech instead!
 wordpress_id: 128
 categories:

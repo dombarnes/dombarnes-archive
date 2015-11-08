@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-02-17 22:55:06+00:00
 layout: post
-slug: 200802new-home-soon
+slug: new-home-soon
 title: New Home soon
 wordpress_id: 99
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2010-10-04 01:20:09+00:00
 layout: post
-slug: 201010need-a-mint
+slug: need-a-mint
 title: Need a Mint
 wordpress_id: 53
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-03-14 13:42:28+00:00
 layout: post
-slug: 200803createsouth-a-new-media-event-to-attend
+slug: createsouth-a-new-media-event-to-attend
 title: CreateSouth - A New Media Event to attend!
 wordpress_id: 93
 categories:

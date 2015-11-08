@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-03-07 22:47:02+00:00
 layout: post
-slug: 200803look-out-fire-just-reached-the-frying-pan-youre-next
+slug: look-out-fire-just-reached-the-frying-pan-youre-next
 title: Look out fire, just reached the frying pan. You're next!
 wordpress_id: 95
 categories:

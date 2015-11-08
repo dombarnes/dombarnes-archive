@@ -3,7 +3,7 @@ author: domster83
 comments: false
 date: 2012-04-13 00:00:01+00:00
 layout: post
-slug: 201204deploying-macbook-airs
+slug: deploying-macbook-airs
 title: Deploying 101 MacBook Air's
 wordpress_id: 30
 categories:
@@ -55,5 +55,5 @@ Our final setup stage, binding to OD, we have to do manually. Due to a failed de
 
 How long did this process take? Thunderbolt took as much time as the internal SSD to boot. The image restoration took about 90 seconds to restore our 8GB image and another 45 seconds to verify. The total time from boot to reboot was about 4.5 minutes. With three people working, we imaged 101 MacBook Airs in about 4 hours.
 
-What does this all mean for future deployments? Well at the moment, there is no practical way to network deploy MacBook Air’s. The lack of ethernet and relatively slow wifi speeds meant we could do one or two simultaneously and it would take perhaps 10 minutes per machine. 
+What does this all mean for future deployments? Well at the moment, there is no practical way to network deploy MacBook Air’s. The lack of ethernet and relatively slow wifi speeds meant we could do one or two simultaneously and it would take perhaps 10 minutes per machine.
 The golden master and a Thunderbolt drive seems the only viable solution here. We lucked out by having enough spare laptops to use those in replace of actual Thunderbolt drives, since these cost £350 for a 120GB drive (from Elgato) but for £40 for a Thunderbolt cable, it made for our best solution.

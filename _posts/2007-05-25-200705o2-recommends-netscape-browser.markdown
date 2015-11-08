@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-05-25 18:21:54+00:00
 layout: post
-slug: 200705o2-recommends-netscape-browser
+slug: o2-recommends-netscape-browser
 title: O2 recommends Netscape Browser
 wordpress_id: 168
 categories:

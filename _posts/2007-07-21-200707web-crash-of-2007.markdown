@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-07-21 00:36:50+00:00
 layout: post
-slug: 200707web-crash-of-2007
+slug: web-crash-of-2007
 title: Web Crash of 2007
 wordpress_id: 156
 categories:

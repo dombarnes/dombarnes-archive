@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-03-16 23:02:00+00:00
 layout: post
-slug: 200703looks-good-in-scrubs
+slug: looks-good-in-scrubs
 title: Looks good in Scrubs
 wordpress_id: 180
 categories:

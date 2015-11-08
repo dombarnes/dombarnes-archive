@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2009-07-14 13:14:43+00:00
 layout: post
-slug: 200907upgrade-to-shareware
+slug: upgrade-to-shareware
 title: Upgrade to Shareware
 wordpress_id: 59
 categories:
@@ -25,5 +25,5 @@ What I did encounter was that the developer had suddenly decided that he wanted 
 
 
 
-I've got nothing against buying software. I've bought a Tiger, Leopard and will buy Snow Leopard, I bought VMWare Fusion cos I had a need for it, and I bought SuperDuper cos it was a great bit of software. But I knew going into that that I'd eventually have to pay for the software. It wasn't sprung on me. 
+I've got nothing against buying software. I've bought a Tiger, Leopard and will buy Snow Leopard, I bought VMWare Fusion cos I had a need for it, and I bought SuperDuper cos it was a great bit of software. But I knew going into that that I'd eventually have to pay for the software. It wasn't sprung on me.
 I do have something against being forced to pay for something which I was previously getting for free, just cos the dev had a change of heart. Especially to do it in such a sneaky way as a software update. If you want to charge for your product, then release a new paid only version, stop development and updating the old version, and do a clean cut over. Offer new features and support for the product, but don't sneak in through the backdoor and demand money.

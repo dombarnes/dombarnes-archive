@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2011-10-17 22:31:13+00:00
 layout: post
-slug: 201110instapaper-4-deciding-to-read-43-folders
+slug: instapaper-4-deciding-to-read-43-folders
 title: 'Instapaper 4: Deciding to Read | 43 Folders'
 wordpress_id: 42
 categories:

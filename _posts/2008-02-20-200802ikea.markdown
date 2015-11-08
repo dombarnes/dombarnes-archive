@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-02-20 19:26:35+00:00
 layout: post
-slug: 200802ikea
+slug: ikea
 title: Ikea!
 wordpress_id: 97
 categories:

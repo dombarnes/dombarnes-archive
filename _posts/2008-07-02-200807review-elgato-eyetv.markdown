@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-07-02 22:30:21+00:00
 layout: post
-slug: 200807review-elgato-eyetv
+slug: review-elgato-eyetv
 title: 'Review: Elgato EyeTV DTT USB Stick'
 wordpress_id: 77
 categories:

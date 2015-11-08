@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-11-09 00:45:03+00:00
 layout: post
-slug: 200711live-blogging-from-the-apple-store-birmingham
+slug: live-blogging-from-the-apple-store-birmingham
 title: Live blogging from the Apple Store - Birmingham
 wordpress_id: 124
 categories:

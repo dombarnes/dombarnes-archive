@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-03-04 22:44:36+00:00
 layout: post
-slug: 200703hats-are-cool-especially-mine
+slug: hats-are-cool-especially-mine
 title: Hats are cool. Especially mine
 wordpress_id: 188
 categories:

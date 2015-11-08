@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-03-12 19:14:41+00:00
 layout: post
-slug: 200703band-practice-100307
+slug: band-practice-100307
 title: Band Practice - 10/03/07
 wordpress_id: 183
 categories:

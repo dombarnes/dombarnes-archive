@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2013-03-15 09:57:57+00:00
 layout: post
-slug: 20133switching-software-update-servers
+slug: switching-software-update-servers
 title: Switching Software Update Servers
 wordpress_id: 11
 ---
@@ -26,7 +26,7 @@ Our office broadband is incredibly slow, so using our work SUS from home is craz
 
 
 
-Currently I've got the terminal commands in a text file that I would copy and paste when I wanted to change, but that is time consuming, so I thought why not just make a bash alias for it. 
+Currently I've got the terminal commands in a text file that I would copy and paste when I wanted to change, but that is time consuming, so I thought why not just make a bash alias for it.
 
 
 

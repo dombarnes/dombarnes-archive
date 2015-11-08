@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-04-24 20:24:34+00:00
 layout: post
-slug: 200804the-great-lottery-experiment
+slug: the-great-lottery-experiment
 title: The Great Lottery Experiment
 wordpress_id: 84
 categories:

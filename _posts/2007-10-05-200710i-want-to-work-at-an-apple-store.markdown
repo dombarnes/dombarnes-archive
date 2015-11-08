@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-10-05 06:29:17+00:00
 layout: post
-slug: 200710i-want-to-work-at-an-apple-store
+slug: i-want-to-work-at-an-apple-store
 title: I Want to work at an Apple Store!!
 wordpress_id: 137
 categories:

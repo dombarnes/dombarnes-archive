@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-08-08 19:43:20+00:00
 layout: post
-slug: 200808ultimate-macbook-pro-upgrade
+slug: ultimate-macbook-pro-upgrade
 title: Ultimate Macbook Pro Upgrade
 wordpress_id: 73
 categories:

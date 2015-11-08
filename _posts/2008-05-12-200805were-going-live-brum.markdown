@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-05-12 00:09:40+00:00
 layout: post
-slug: 200805were-going-live-brum
+slug: were-going-live-brum
 title: We're Going Live Brum!
 wordpress_id: 81
 categories:

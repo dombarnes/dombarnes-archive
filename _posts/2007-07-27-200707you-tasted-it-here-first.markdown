@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-07-27 18:04:59+00:00
 layout: post
-slug: 200707you-tasted-it-here-first
+slug: you-tasted-it-here-first
 title: You tasted it here first!
 wordpress_id: 155
 categories:

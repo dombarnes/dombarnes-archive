@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-03-06 22:57:52+00:00
 layout: post
-slug: 200703the-band-has-split
+slug: the-band-has-split
 title: The band has split!
 wordpress_id: 187
 categories:

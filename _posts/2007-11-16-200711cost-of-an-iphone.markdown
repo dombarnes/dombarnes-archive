@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-11-16 19:26:04+00:00
 layout: post
-slug: 200711cost-of-an-iphone
+slug: cost-of-an-iphone
 title: Cost of an iPhone
 wordpress_id: 120
 categories:
@@ -77,4 +77,4 @@ So there you go. Its not a bad deal. Its a GREAT deal, and you have a fantastic 
 
 
 
-Please, argue these points. Let me know your thoughts. Have I done the maths wrong? Am I overlooking something?	
+Please, argue these points. Let me know your thoughts. Have I done the maths wrong? Am I overlooking something?

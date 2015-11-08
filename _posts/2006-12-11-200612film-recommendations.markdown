@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2006-12-11 11:38:56+00:00
 layout: post
-slug: 200612film-recommendations
+slug: film-recommendations
 title: Film Recommendations
 wordpress_id: 213
 categories:

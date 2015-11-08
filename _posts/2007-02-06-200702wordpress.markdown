@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-02-06 21:41:25+00:00
 layout: post
-slug: 200702wordpress
+slug: wordpress
 title: Wordpress
 wordpress_id: 195
 categories:

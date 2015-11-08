@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-01-05 21:48:09+00:00
 layout: post
-slug: 200801do-you-really-care-who-i-am
+slug: do-you-really-care-who-i-am
 title: Do you really care who I am?
 wordpress_id: 106
 categories:

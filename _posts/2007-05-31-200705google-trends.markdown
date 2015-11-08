@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-05-31 23:13:08+00:00
 layout: post
-slug: 200705google-trends
+slug: google-trends
 title: Google Trends
 wordpress_id: 166
 categories:
@@ -23,8 +23,8 @@ I just logged on to Google Reader, my fave RSS client (Cheers [Chris Witherall)]
 
 <blockquote>[![](http://static.flickr.com/226/523972690_64f8c3fd15_m.jpg)](http://flickr.com/photos/58248510@N00/523972690)
 
-> 
-> 
+>
+>
 </blockquote>
 
 
@@ -46,8 +46,8 @@ Good news is I have 100% reading record! Well done me! Really loving that [Lifeh
 
 
 <blockquote>[![](http://static.flickr.com/207/524002659_ccb536a919_m.jpg)](http://flickr.com/photos/58248510@N00/524002659)
-> 
-> 
+>
+>
 </blockquote>
 
 

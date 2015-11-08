@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-03-27 23:01:53+00:00
 layout: post
-slug: 200803birmingham-regeneration
+slug: birmingham-regeneration
 title: Birmingham Regeneration
 wordpress_id: 89
 categories:

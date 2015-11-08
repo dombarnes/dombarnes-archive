@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2011-05-11 10:36:16+00:00
 layout: post
-slug: 201105music-beta-from-google
+slug: music-beta-from-google
 title: Music Beta from Google
 wordpress_id: 47
 categories:
@@ -16,7 +16,7 @@ So whats wrong with that? Well firstly, you can upload up to 20,000 songs. There
 
 
 
-When you lose you internet connection, its not a problem. The recently listened items are still available to listen to as they are stored locally, which seems to contradict the claim that it requires no storage space on your device. You can also select albums to store locally on the device for later consumption (similar to Spotify). But to me, recently listened to songs is useless. I don't listen to the same 25 songs over and over. I jump around my library and want to listen to stuff I haven't heard for a while. At least you can copy all your music to your Android device [via USB](http://www.google.com/support/music/bin/answer.py?answer=1250234) (if you have enough internal storage). Thats novel. 
+When you lose you internet connection, its not a problem. The recently listened items are still available to listen to as they are stored locally, which seems to contradict the claim that it requires no storage space on your device. You can also select albums to store locally on the device for later consumption (similar to Spotify). But to me, recently listened to songs is useless. I don't listen to the same 25 songs over and over. I jump around my library and want to listen to stuff I haven't heard for a while. At least you can copy all your music to your Android device [via USB](http://www.google.com/support/music/bin/answer.py?answer=1250234) (if you have enough internal storage). Thats novel.
 
 
 

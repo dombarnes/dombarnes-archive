@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-08-18 21:19:04+00:00
 layout: post
-slug: 200708should-i-take-offense
+slug: should-i-take-offense
 title: Should I take offense?
 wordpress_id: 149
 categories:
@@ -11,14 +11,14 @@ categories:
 ---
 
 [![](http://farm2.static.flickr.com/1418/1162476223_d87c7cd12a_m.jpg)](http://www.flickr.com/photos/domster83/1162476223/)
-   
 
- 
+
+
   [Signs in Toilets - Madhouse](http://www.flickr.com/photos/domster83/1162476223/)
-    
+
 
   Originally uploaded by [domster83](http://www.flickr.com/people/domster83/).
- 
+
 
 
 

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-02-01 21:00:08+00:00
 layout: post
-slug: 2007023-in-1-band-practice
+slug: 3-in-1-band-practice
 title: 3-in-1 Band Practice
 wordpress_id: 198
 categories:

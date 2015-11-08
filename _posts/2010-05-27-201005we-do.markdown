@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2010-05-27 10:28:20+00:00
 layout: post
-slug: 201005we-do
+slug: we-do
 title: We Do
 wordpress_id: 55
 categories:

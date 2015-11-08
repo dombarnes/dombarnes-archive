@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-01-25 21:50:29+00:00
 layout: post
-slug: 200801day25-sorta
+slug: day25-sorta
 title: Day...25 sorta
 wordpress_id: 103
 categories:

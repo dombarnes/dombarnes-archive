@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-10-28 10:34:42+00:00
 layout: post
-slug: 200710eleanor-mann-congrats
+slug: eleanor-mann-congrats
 title: Eleanor Mann - Congrats
 wordpress_id: 126
 categories:

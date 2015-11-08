@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2012-09-24 11:32:58+00:00
 layout: post
-slug: 201209personal-debt-september-2012
+slug: personal-debt-september-2012
 title: Personal Debt - September 2012
 wordpress_id: 23
 categories:

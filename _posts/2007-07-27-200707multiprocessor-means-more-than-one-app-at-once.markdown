@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-07-27 20:44:53+00:00
 layout: post
-slug: 200707multiprocessor-means-more-than-one-app-at-once
+slug: multiprocessor-means-more-than-one-app-at-once
 title: Multiprocessor means more than one app at once?
 wordpress_id: 154
 categories:

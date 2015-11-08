@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-03-04 11:50:33+00:00
 layout: post
-slug: 200703new-blog
+slug: new-blog
 title: New blog
 wordpress_id: 189
 categories:

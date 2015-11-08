@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-09-24 23:03:30+00:00
 layout: post
-slug: 200709iphone-edge-and-fort-augustus
+slug: iphone-edge-and-fort-augustus
 title: iPhone, Edge, and Fort Augustus
 wordpress_id: 142
 categories:
@@ -33,7 +33,7 @@ Firstly, there are many points people keep missing.
 <blockquote>3G - 50kbps (3g)
 2.5G - 8-10kbps (EDGE)
 2G - 5-8 kbps (GPRS)
-> 
+>
 > </blockquote>
 
 

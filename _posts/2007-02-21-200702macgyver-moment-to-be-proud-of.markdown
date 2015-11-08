@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-02-21 00:41:22+00:00
 layout: post
-slug: 200702macgyver-moment-to-be-proud-of
+slug: macgyver-moment-to-be-proud-of
 title: MacGyver moment to be proud of
 wordpress_id: 191
 categories:

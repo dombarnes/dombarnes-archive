@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-09-09 11:32:38+00:00
 layout: post
-slug: 200709new-home-old-router
+slug: new-home-old-router
 title: New Home, Old Router
 wordpress_id: 143
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2006-11-15 00:42:42+00:00
 layout: post
-slug: 200611card-dvd
+slug: cars-dvd
 title: Cars DVD
 wordpress_id: 220
 categories:

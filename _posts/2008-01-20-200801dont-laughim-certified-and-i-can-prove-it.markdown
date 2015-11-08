@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-01-20 13:48:44+00:00
 layout: post
-slug: 200801dont-laughim-certified-and-i-can-prove-it
+slug: dont-laughim-certified-and-i-can-prove-it
 title: Don’t Laugh…I’m Certified and I can prove it.
 wordpress_id: 104
 categories:

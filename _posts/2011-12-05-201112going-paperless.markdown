@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2011-12-05 22:46:32+00:00
 layout: post
-slug: 201112going-paperless
+slug: going-paperless
 title: Going Paperless
 wordpress_id: 38
 categories:

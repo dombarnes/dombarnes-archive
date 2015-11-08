@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-07-08 00:21:43+00:00
 layout: post
-slug: 200707whats-that-clicking
+slug: whats-that-clicking
 title: Whats that clicking?
 wordpress_id: 159
 categories:

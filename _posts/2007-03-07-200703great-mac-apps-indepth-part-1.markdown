@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-03-07 08:09:20+00:00
 layout: post
-slug: 200703great-mac-apps-indepth-part-1
+slug: great-mac-apps-indepth-part-1
 title: Great Mac Apps - Indepth Part 1
 wordpress_id: 185
 categories:

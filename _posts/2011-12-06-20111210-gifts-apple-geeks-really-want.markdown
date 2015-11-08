@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2011-12-06 15:52:09+00:00
 layout: post
-slug: 20111210-gifts-apple-geeks-really-want
+slug: 10-gifts-apple-geeks-really-want
 title: 10 Gifts Apple Geeks Really Want
 wordpress_id: 37
 categories:
@@ -21,7 +21,7 @@ In particular:
 
 
 <blockquote>Skyrim, available for Xbox 360, PS3, and Windows
-> 
+>
 > </blockquote>
 
 
@@ -33,5 +33,5 @@ In particular:
 
 
 <blockquote>The last item on my list is the Microsoft Kinect
-> 
+>
 > </blockquote>

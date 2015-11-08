@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-05-27 22:33:31+00:00
 layout: post
-slug: 200705flock-and-gather
+slug: flock-and-gather
 title: Flock and gather
 wordpress_id: 167
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2006-12-23 20:32:11+00:00
 layout: post
-slug: 200612christmas-starts
+slug: christmas-starts
 title: Christmas starts
 wordpress_id: 207
 categories:

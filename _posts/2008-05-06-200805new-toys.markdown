@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-05-06 13:12:04+00:00
 layout: post
-slug: 200805new-toys
+slug: new-toys
 title: New Toys
 wordpress_id: 83
 categories:

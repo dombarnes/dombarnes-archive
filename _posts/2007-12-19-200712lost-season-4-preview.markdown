@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-12-19 07:39:33+00:00
 layout: post
-slug: 200712lost-season-4-preview
+slug: lost-season-4-preview
 title: Lost Season 4 Preview
 wordpress_id: 110
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-02-27 22:00:04+00:00
 layout: post
-slug: 200802busy-doing-nothing
+slug: busy-doing-nothing
 title: Busy doing Nothing
 wordpress_id: 96
 categories:

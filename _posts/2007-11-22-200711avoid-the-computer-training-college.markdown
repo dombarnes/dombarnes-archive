@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-11-22 19:30:34+00:00
 layout: post
-slug: 200711avoid-the-computer-training-college
+slug: avoid-the-computer-training-college
 title: Avoid the Computer Training College
 wordpress_id: 119
 categories:

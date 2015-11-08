@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-03-27 11:13:48+00:00
 layout: post
-slug: 200803mythtv-day-34
+slug: mythtv-day-34
 title: MythTV Day 4/5
 wordpress_id: 90
 categories:

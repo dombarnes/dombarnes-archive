@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-04-01 18:43:15+00:00
 layout: post
-slug: 200804new-gigs-for-the-douglas-furs
+slug: new-gigs-for-the-douglas-furs
 title: New Gigs for the Douglas Furs
 wordpress_id: 88
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-09-25 08:44:55+00:00
 layout: post
-slug: 200709do-i-want-too-much-or-too-little
+slug: do-i-want-too-much-or-too-little
 title: Do I want too much? Or too little?
 wordpress_id: 141
 categories:

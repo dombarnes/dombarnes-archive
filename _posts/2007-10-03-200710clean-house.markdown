@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-10-03 22:36:39+00:00
 layout: post
-slug: 200710clean-house
+slug: clean-house
 title: Clean House!
 wordpress_id: 138
 categories:
@@ -22,6 +22,3 @@ Well thats about all for tonight really. Its too late to carry on much more. Sle
 
 
 Tags: [life](http://technorati.com/tag/life), [tidy](http://technorati.com/tag/tidy), [ ](http://technorati.com/tag/%20)
-
-
-

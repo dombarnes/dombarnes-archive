@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-05-20 22:37:37+00:00
 layout: post
-slug: 200805get-a-new-ad-mac
+slug: get-a-new-ad-mac
 title: Get a new ad, Mac
 wordpress_id: 80
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2009-10-26 22:45:44+00:00
 layout: post
-slug: 200910qualifying-answers
+slug: qualifying-answers
 title: Qualifying Answers
 wordpress_id: 58
 categories:
@@ -20,7 +20,7 @@ I've been looking around for jobs recently and made the decision I need to impro
 
 
 
-I'm hoping that after that, or perhaps even during, I might get the opportunity to study for the Apple exams, aiming to become a Certified Professional at some point. 
+I'm hoping that after that, or perhaps even during, I might get the opportunity to study for the Apple exams, aiming to become a Certified Professional at some point.
 
 
 

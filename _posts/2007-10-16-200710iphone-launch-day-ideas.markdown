@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-10-16 22:19:50+00:00
 layout: post
-slug: 200710iphone-launch-day-ideas
+slug: iphone-launch-day-ideas
 title: iPhone Launch Day ideas
 wordpress_id: 132
 categories:

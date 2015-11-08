@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-12-12 00:10:57+00:00
 layout: post
-slug: 200712success-with-an-a-almost
+slug: success-with-an-a-almost
 title: Success with an A+ (almost)
 wordpress_id: 115
 categories:

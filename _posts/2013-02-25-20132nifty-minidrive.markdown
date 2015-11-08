@@ -3,7 +3,7 @@ author: domster83
 comments: false
 date: 2013-02-25 12:34:23+00:00
 layout: post
-slug: 20132nifty-minidrive
+slug: nifty-minidrive
 title: Nifty MiniDrive
 wordpress_id: 12
 ---
@@ -15,9 +15,9 @@ When I bought my MacBook Air in San Francisco in 2011 and bought the best one I 
 When iTunes Match launched, I signed up and removed another 7GB of music from my laptop, which is my only machine. Still, work required me to have a bit more hard drive space, and increasingly needed quick access to my Windows machine for tech suppor.  Running VMWare Fusion over USB was a joke, unusable. So the Nifty seemed like a great way to help my storage needs.
 
 
-  
+
       ![](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/512b5739e4b0c865397598eb/1361794877285/IMG_0001_2.jpg)
-  
+
 
 
 
@@ -27,21 +27,21 @@ ut, despite the delays, its here, and its great. It arrived in this slimline pac
 
 
 
-  
+
    ![](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/512b58a1e4b0997773785a35/1361795243782/IMG_0006_2.jpg)
-  
 
-  
+
+
    ![](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/512b58a1e4b0dc8d3de06b9d/1361795245592/IMG_0004_2.jpg)
-  
 
-  
+
+
    ![](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/512b58a1e4b01fa674902c10/1361795246626/IMG_0005_2.jpg)
-  
 
-  
+
+
    ![](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/512b58a1e4b0c86539759a32/1361795244280/IMG_0008_2.jpg)
-  
+
 
 
 
@@ -54,14 +54,14 @@ If you spend your time putting your laptop to sleep and waking it throughout the
 **Update**: I ran Blackmagic Disk Speed Test on a Class 10 Sandisk MicroSD for read/write speeds. Here is is compared with my internal SSD.
 
 
-  
-       [caption id="" align="alignnone" width="806.0"]![MacBook Air Internal SSD](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/512b7977e4b0fd698ec38d67/1361803648020/DiskSpeedTest3-ssd.png) MacBook Air Internal SSD[/caption] 
-  
+
+       [caption id="" align="alignnone" width="806.0"]![MacBook Air Internal SSD](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/512b7977e4b0fd698ec38d67/1361803648020/DiskSpeedTest3-ssd.png) MacBook Air Internal SSD[/caption]
 
 
-  
-       [caption id="" align="alignnone" width="806.0"]![Sandisk Class 10 MicroSD via Nifty Drive](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/512b7991e4b091ea7fc9cff1/1361803668183/DiskSpeedTest2-microsd.png) Sandisk Class 10 MicroSD via Nifty Drive[/caption] 
-  
+
+
+       [caption id="" align="alignnone" width="806.0"]![Sandisk Class 10 MicroSD via Nifty Drive](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/512b7991e4b091ea7fc9cff1/1361803668183/DiskSpeedTest2-microsd.png) Sandisk Class 10 MicroSD via Nifty Drive[/caption]
+
 
 
 

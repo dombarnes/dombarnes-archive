@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-04-22 19:20:26+00:00
 layout: post
-slug: 200804linux-is-easy-easier-than-xp
+slug: linux-is-easy-easier-than-xp
 title: Linux is easy, easier than XP
 wordpress_id: 85
 categories:

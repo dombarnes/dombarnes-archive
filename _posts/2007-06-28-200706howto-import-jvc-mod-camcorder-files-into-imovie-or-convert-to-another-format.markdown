@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-06-28 10:54:23+00:00
 layout: post
-slug: 200706howto-import-jvc-mod-camcorder-files-into-imovie-or-convert-to-another-format
+slug: howto-import-jvc-mod-camcorder-files
 title: 'HOWTO: Import JVC .MOD camcorder files into iMovie, Final Cut or Convert to
   another format'
 wordpress_id: 160

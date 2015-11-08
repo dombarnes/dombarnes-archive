@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-01-02 13:48:22+00:00
 layout: post
-slug: 200801windows-fails-to-sell-tickets
+slug: windows-fails-to-sell-tickets
 title: Windows fails to sell tickets
 wordpress_id: 107
 categories:
@@ -11,14 +11,14 @@ categories:
 ---
 
 [![](http://farm3.static.flickr.com/2225/2155202436_009d8f76e0_m.jpg)](http://www.flickr.com/photos/domster83/2155202436/)
-   
 
- 
+
+
   [Windows fails to sell tickets](http://www.flickr.com/photos/domster83/2155202436/)
-    
+
 
   Originally uploaded by [domster83](http://www.flickr.com/people/domster83/).
- 
+
 
 
 

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-07-10 21:30:31+00:00
 layout: post
-slug: 200707new-stuff-and-old-failures
+slug: new-stuff-and-old-failures
 title: New stuff and old failures
 wordpress_id: 157
 categories:
@@ -17,7 +17,7 @@ It arrived (and by that I mean I picked it up) yesterday. I have my new MacBook 
 
 
 <blockquote>You inserted a blank DVD. Choose an action from the pop-up menu or click Ignore
-> 
+>
 > </blockquote>
 
 

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2012-01-01 16:09:16+00:00
 layout: post
-slug: 201201debt-reduction-in-public
+slug: debt-reduction-in-public
 title: Debt Reduction in public
 wordpress_id: 35
 categories:

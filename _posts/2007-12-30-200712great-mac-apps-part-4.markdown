@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-12-30 17:48:17+00:00
 layout: post
-slug: 200712great-mac-apps-part-4
+slug: great-mac-apps-part-4
 title: Great Mac Apps - Part 4
 wordpress_id: 108
 categories:

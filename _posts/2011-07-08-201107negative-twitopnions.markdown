@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2011-07-08 14:01:30+00:00
 layout: post
-slug: 201107negative-twitopnions
+slug: negative-twitopnions
 title: Negative Twitopnions
 wordpress_id: 44
 categories:
@@ -22,7 +22,7 @@ While there is a lot to be said about that, around the morality of a newspaper a
 
 
 <blockquote>Sign of things to come? [#NoTW](http://search.twitter.com/search?q=%23NoTW) story buried in US Murdoch papers WSJ & NYPost yet world knows about it End of newspapers?
-> 
+>
 > </blockquote>
 
 
@@ -34,7 +34,7 @@ While there is a lot to be said about that, around the morality of a newspaper a
 
 
 <blockquote>Any bad news being buried today I wonder...?  [#notw
-> 
+>
 > </blockquote>
 
 
@@ -46,7 +46,7 @@ While there is a lot to be said about that, around the morality of a newspaper a
 
 
 <blockquote>NZ news site Stuff.co.nz has already buried the NOTW story, even on its World page. Does Murdoch control Fairfax Media...? [#notw
-> 
+>
 > </blockquote>
 
 
@@ -58,13 +58,13 @@ While there is a lot to be said about that, around the morality of a newspaper a
 
 
 <blockquote>Gas price hike by British Gas buried underneath the [#NOTW](http://search.twitter.com/search?q=%23NOTW)...
-> 
+>
 > </blockquote>
 
 
 
 
-There seems to be a mass assumption being made that any news story that a person deems as important, is purposefully being buried by the company by announcing it while a bigger news story is going on. But would you really expect a big company to rush through all its 'bad' news at such a time just in the hope that it gets buried by the lead? 
+There seems to be a mass assumption being made that any news story that a person deems as important, is purposefully being buried by the company by announcing it while a bigger news story is going on. But would you really expect a big company to rush through all its 'bad' news at such a time just in the hope that it gets buried by the lead?
 
 
 
@@ -89,7 +89,7 @@ Similar domains, such as TheSundaySunPaper.co.uk has been registered on 8th July
 
 
 
-The main point here is that it doesn't take much for wild speculation on Twitter, or other social media websites, to spread quickly, and can often tar a company with a bad reputation. One unhappy customer, or mischievous individual can cause damage to a commercial business. Moreso, as TV news programs tie into Twitter more, they further open themselves to wild speculation, as the information coming from them is no more than a 3rd or 4th hand source. 
+The main point here is that it doesn't take much for wild speculation on Twitter, or other social media websites, to spread quickly, and can often tar a company with a bad reputation. One unhappy customer, or mischievous individual can cause damage to a commercial business. Moreso, as TV news programs tie into Twitter more, they further open themselves to wild speculation, as the information coming from them is no more than a 3rd or 4th hand source.
 
 
 

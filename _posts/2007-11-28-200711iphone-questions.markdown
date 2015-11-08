@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-11-28 22:36:59+00:00
 layout: post
-slug: 200711iphone-questions
+slug: iphone-questions
 title: iPhone  Questions
 wordpress_id: 118
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-12-03 00:31:29+00:00
 layout: post
-slug: 200712bnl-feliz-good-friday
+slug: bnl-feliz-good-friday
 title: BNL - Feliz Good Friday
 wordpress_id: 116
 categories:

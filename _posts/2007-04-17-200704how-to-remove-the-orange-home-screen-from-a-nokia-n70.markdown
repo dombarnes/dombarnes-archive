@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-04-17 17:11:19+00:00
 layout: post
-slug: 200704how-to-remove-the-orange-home-screen-from-a-nokia-n70
+slug: how-to-remove-the-orange-home-screen-from-a-nokia-n70
 title: 'HOWTO: Remove the Orange Home screen from a Nokia N70'
 wordpress_id: 174
 categories:

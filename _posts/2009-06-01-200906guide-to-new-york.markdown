@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2009-06-01 16:00:23+00:00
 layout: post
-slug: 200906guide-to-new-york
+slug: guide-to-new-york
 title: Guide to New York
 wordpress_id: 60
 categories:

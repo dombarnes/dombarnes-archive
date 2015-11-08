@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-04-13 08:01:53+00:00
 layout: post
-slug: 200804moshi-monsters
+slug: moshi-monsters
 title: Moshi Monsters
 wordpress_id: 86
 categories:

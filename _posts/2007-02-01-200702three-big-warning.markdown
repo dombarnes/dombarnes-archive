@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-02-01 21:26:32+00:00
 layout: post
-slug: 200702three-big-warning
+slug: three-big-warning
 title: Three - Big Warning
 wordpress_id: 197
 categories:

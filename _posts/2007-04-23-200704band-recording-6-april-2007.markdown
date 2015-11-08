@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-04-23 22:53:33+00:00
 layout: post
-slug: 200704band-recording-6-april-2007
+slug: band-recording-6-april-2007
 title: 'Band Recording: 6 April 2007'
 wordpress_id: 173
 categories:

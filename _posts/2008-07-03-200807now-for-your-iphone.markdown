@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-07-03 19:41:36+00:00
 layout: post
-slug: 200807now-for-your-iphone
+slug: now-for-your-iphone
 title: Now for your iPhone
 wordpress_id: 76
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2006-12-14 17:33:15+00:00
 layout: post
-slug: 200612its-the-most-wonderful-time-of-the-yearfor-strange-things
+slug: its-the-most-wonderful-time-of-the-yearfor-strange-things
 title: Its the most wonderful time of the year..for strange things
 wordpress_id: 210
 categories:

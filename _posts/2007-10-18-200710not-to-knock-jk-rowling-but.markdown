@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-10-18 09:59:29+00:00
 layout: post
-slug: 200710not-to-knock-jk-rowling-but
+slug: not-to-knock-jk-rowling-but
 title: Not to Knock J.K. Rowling but...
 wordpress_id: 129
 categories:

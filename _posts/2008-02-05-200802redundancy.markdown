@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-02-05 20:06:40+00:00
 layout: post
-slug: 200802redundancy
+slug: redundancy
 title: Redundancy
 wordpress_id: 101
 categories:

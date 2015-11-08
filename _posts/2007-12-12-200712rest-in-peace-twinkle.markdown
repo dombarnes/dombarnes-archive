@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-12-12 22:57:10+00:00
 layout: post
-slug: 200712rest-in-peace-twinkle
+slug: rest-in-peace-twinkle
 title: Rest in Peace - Twinkle
 wordpress_id: 114
 categories:

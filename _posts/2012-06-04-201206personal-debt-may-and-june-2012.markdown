@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2012-06-04 16:01:09+00:00
 layout: post
-slug: 201206personal-debt-may-and-june-2012
+slug: personal-debt-may-and-june-2012
 title: 'Personal Debt: May and June 2012'
 wordpress_id: 29
 categories:

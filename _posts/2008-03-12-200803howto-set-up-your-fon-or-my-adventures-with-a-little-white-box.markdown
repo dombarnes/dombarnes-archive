@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-03-12 01:03:05+00:00
 layout: post
-slug: 200803howto-set-up-your-fon-or-my-adventures-with-a-little-white-box
+slug: howto-set-up-your-fon-or-my-adventures-with-a-little-white-box
 title: 'HOWTO: Set up your Fon, or My adventures with a little white box'
 wordpress_id: 94
 categories:

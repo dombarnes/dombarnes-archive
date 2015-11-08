@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-03-14 21:14:47+00:00
 layout: post
-slug: 200703i-hate-tiscali-you-should-too
+slug: i-hate-tiscali-you-should-too
 title: I Hate Tiscali - you should too
 wordpress_id: 182
 categories:
@@ -20,27 +20,27 @@ Thank you for contacting Tiscali Customer Support.
 
 
 <blockquote>I understand from your email that you are experiencing slow speed connectivity.
-> 
-> 
+>
+>
 
-> 
+>
 > I am forwarding your concern to the concerned department who will analyse the case and assist you regarding this. For further concern regarding this issue, I would request you to write directly to broadbandservices@uk.tiscali.com , stating 'FUP Warning' in the subject line. They will be able to check your line and do the needful.
-> 
-> 
+>
+>
 
-> 
+>
 > If you have any other concerns, please feel free to write to us.
-> 
-> 
+>
+>
 
-> 
+>
 > Regards,
-> 
-> 
+>
+>
 
-> 
+>
 > Tiscali Customer Support
-> 
+>
 > </blockquote>
 
 

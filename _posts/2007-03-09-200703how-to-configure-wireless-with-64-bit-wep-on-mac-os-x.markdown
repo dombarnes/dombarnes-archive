@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-03-09 18:16:31+00:00
 layout: post
-slug: 200703how-to-configure-wireless-with-64-bit-wep-on-mac-os-x
+slug: how-to-configure-wireless-with-64-bit-wep-on-mac-os-x
 title: 'HOWTO: Configure wireless with 64-bit WEP on Mac OS X'
 wordpress_id: 184
 categories:

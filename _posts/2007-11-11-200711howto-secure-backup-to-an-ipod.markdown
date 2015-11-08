@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-11-11 23:34:53+00:00
 layout: post
-slug: 200711howto-secure-backup-to-an-ipod
+slug: howto-secure-backup-to-an-ipod
 title: 'HOWTO: Secure Backup to an iPod'
 wordpress_id: 121
 categories:
@@ -43,7 +43,7 @@ rsync -aE --progress --exclude=Library/Fonts/ --exclude=Library/Application Supp
 sleep 2m
 hdiutil dettach /Volumes/Dom's iPod Video/Backup/EncryptedBackup.sparseimage
 echo =====Backup Complete===== >>~/.rsync.log
-> 
+>
 > </blockquote>
 
 

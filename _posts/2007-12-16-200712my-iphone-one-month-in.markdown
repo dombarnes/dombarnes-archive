@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-12-16 20:50:37+00:00
 layout: post
-slug: 200712my-iphone-one-month-in
+slug: my-iphone-one-month-in
 title: My iPhone - One Month In
 wordpress_id: 111
 categories:

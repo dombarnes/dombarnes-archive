@@ -3,7 +3,7 @@ author: domster83
 comments: false
 date: 2012-02-01 00:00:00+00:00
 layout: post
-slug: 201202personal-debt-february-2012
+slug: personal-debt-february-2012
 title: 'Personal Debt: February 2012'
 wordpress_id: 32
 categories:

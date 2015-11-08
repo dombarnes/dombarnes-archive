@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2011-12-28 15:00:32+00:00
 layout: post
-slug: 201112aeropress-for-christmas
+slug: aeropress-for-christmas
 title: Aeropress for Christmas
 wordpress_id: 36
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-04-23 23:27:27+00:00
 layout: post
-slug: 200704my-thoughts-on-the-iphone
+slug: my-thoughts-on-the-iphone
 title: My thoughts on the iPhone
 wordpress_id: 172
 categories:

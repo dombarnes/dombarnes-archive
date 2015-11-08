@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-10-01 10:59:01+00:00
 layout: post
-slug: 200710new-story-on-digg-for-ipod-touch-stories
+slug: new-story-on-digg-for-ipod-touch-stories
 title: New Story on Digg for iPod Touch Stories
 wordpress_id: 139
 categories:

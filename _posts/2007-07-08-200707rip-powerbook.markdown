@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-07-08 19:13:04+00:00
 layout: post
-slug: 200707rip-powerbook
+slug: rip-powerbook
 title: R.I.P. Powerbook
 wordpress_id: 158
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-06-18 20:26:03+00:00
 layout: post
-slug: 200706gigs-and-failed-gigs
+slug: gigs-and-failed-gigs
 title: Gigs and Failed Gigs
 wordpress_id: 161
 categories:

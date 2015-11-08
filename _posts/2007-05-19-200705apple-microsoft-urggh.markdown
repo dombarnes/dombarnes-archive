@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-05-19 21:25:19+00:00
 layout: post
-slug: 200705apple-microsoft-urggh
+slug: apple-microsoft-urggh
 title: Apple + Microsoft = URGGH!
 wordpress_id: 169
 categories:

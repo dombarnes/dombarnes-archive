@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-10-18 06:26:05+00:00
 layout: post
-slug: 200710broken-fingers-session
+slug: broken-fingers-session
 title: Burnt Fingers Session
 wordpress_id: 130
 categories:

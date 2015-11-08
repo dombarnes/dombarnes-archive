@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-11-09 21:46:44+00:00
 layout: post
-slug: 200711iphone-setup-and-first-thought
+slug: iphone-setup-and-first-thought
 title: iPhone - Setup, and First thought
 wordpress_id: 123
 categories:

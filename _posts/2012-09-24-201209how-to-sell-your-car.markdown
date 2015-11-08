@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2012-09-24 11:01:01+00:00
 layout: post
-slug: 201209how-to-sell-your-car
+slug: how-to-sell-your-car
 title: How to Sell Your Car
 wordpress_id: 24
 categories:
@@ -18,15 +18,15 @@ After that, I tried two methods. I listed it on Craigslist (which doesn't get us
 
 <blockquote>
 
-> 
+>
 > From: james williams [normandon031@gmail.com](mailto:normandon031@gmail.com)
-> 
-> 
+>
+>
 
-> 
+>
 > Thanks for the swift response...due to the nature of my job and location...i will not be able to come for inspection,am a very busy type as i work long hours everyday,i have gone through your advertisement and i am satisfied with it.As for the payment..i will be paying you via the fastest and secure way to pay online(PayPal).I have a private courier agent that will come for the pick up after the payment have been made and cleared to your account, so you don't have to worry about that...so no shipping included.You can now send me your PayPal email so i can pay in right away and also include your address in your reply.If you don't have a paypal account, you can easily set up one...log on to www.paypal.com. and sign up. its very easy.I await your reply asap
-> 
-> 
+>
+>
 </blockquote>
 
 Finally, on the last day of the advert, I had some calls. One person wanted to come and look at it immediately, and the other wanted to find someone to go with her to look and check the car over. The first person came, took a look - he worked for KwikFit so had a good idea of what to ask and look for, unlike me - and took a test drive. He was interested but wanted to look at insurance costs, and some other stuff. The next day, he came back, took one last look and bought it.

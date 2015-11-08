@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2011-05-04 10:45:41+00:00
 layout: post
-slug: 201105ios-notifications-concept-on-vimeo
+slug: ios-notifications-concept-on-vimeo
 title: iOS notifications concept on Vimeo
 wordpress_id: 48
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2012-01-01 16:19:31+00:00
 layout: post
-slug: 201201personal-debt-january-2012
+slug: personal-debt-january-2012
 title: 'Personal Debt: January 2012'
 wordpress_id: 34
 categories:

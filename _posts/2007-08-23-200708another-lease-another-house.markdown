@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-08-23 20:27:13+00:00
 layout: post
-slug: 200708another-lease-another-house
+slug: another-lease-another-house
 title: Another lease, another house
 wordpress_id: 147
 categories:

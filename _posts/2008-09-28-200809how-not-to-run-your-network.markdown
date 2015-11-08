@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-09-28 15:00:39+00:00
 layout: post
-slug: 200809how-not-to-run-your-network
+slug: how-not-to-run-your-network
 title: How Not to run your network
 wordpress_id: 70
 categories:
@@ -32,7 +32,7 @@ My former employer was a public sector company, and foolishly I expected things 
 
 
 
-Issues like these can be easily solved, and if someone would make the effort, things would be so much more secure. Group Policies could limit files being saved to My Documents only, stop USB drives, CDs, and floppies being used. No local admin rights would save issues with unauthorised software being used. Roaming profiles could be implemented, mapping a drive to a SAN for the My Documents and caching profiles locally. This would also provide a easier method of backing up, and certainly make my old job of replacing PC's quicker. I can tell you that the data transfer was the most time consuming thing, especially when you have a Dell GX150 with USB 1.1 giving slow data transfer rates. 
+Issues like these can be easily solved, and if someone would make the effort, things would be so much more secure. Group Policies could limit files being saved to My Documents only, stop USB drives, CDs, and floppies being used. No local admin rights would save issues with unauthorised software being used. Roaming profiles could be implemented, mapping a drive to a SAN for the My Documents and caching profiles locally. This would also provide a easier method of backing up, and certainly make my old job of replacing PC's quicker. I can tell you that the data transfer was the most time consuming thing, especially when you have a Dell GX150 with USB 1.1 giving slow data transfer rates.
 
 
 

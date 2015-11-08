@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-03-20 23:46:31+00:00
 layout: post
-slug: 200703i-hear-theyre-dying
+slug: i-hear-theyre-dying
 title: I hear they're dying
 wordpress_id: 179
 categories:

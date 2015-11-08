@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-12-02 23:34:59+00:00
 layout: post
-slug: 200712ct-college-update
+slug: ct-college-update
 title: CT College - Update
 wordpress_id: 117
 categories:

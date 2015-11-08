@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-09-28 14:46:49+00:00
 layout: post
-slug: 200809new-seasons
+slug: new-seasons
 title: New Seasons
 wordpress_id: 71
 categories:
@@ -17,7 +17,7 @@ tags:
 ---
 
 Boy do I watch a lot of TV. Yet surprisingly not much is actually on the TV. I'm a big fan of lots of the American dramas, and have watched Dawson's Creek, The OC, Gilmore Girls, and others come and go. But I always like this time of year, because all the new seasons start. So, for the next 8 months (roughly) I will be watching:
-One Tree Hill (recent convert), Smallville, Heroes,  Big Bang Theory, Numb3rs, Chuck, and beginning in Janurary, Lost. 
+One Tree Hill (recent convert), Smallville, Heroes,  Big Bang Theory, Numb3rs, Chuck, and beginning in Janurary, Lost.
 
 
 

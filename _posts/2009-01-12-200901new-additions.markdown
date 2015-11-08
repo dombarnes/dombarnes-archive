@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2009-01-12 17:57:04+00:00
 layout: post
-slug: 200901new-additions
+slug: new-additions
 title: New Additions
 wordpress_id: 65
 categories:

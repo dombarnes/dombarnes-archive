@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-03-06 23:42:53+00:00
 layout: post
-slug: 200703great-apps-i-use
+slug: great-apps-i-use
 title: Great Mac Apps I use
 wordpress_id: 186
 categories:

@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-10-31 22:44:14+00:00
 layout: post
-slug: 200810windows-7-running-in-unity
+slug: windows-7-running-in-unity
 title: Windows 7 running in Unity
 wordpress_id: 68
 categories:

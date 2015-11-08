@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-10-25 23:25:28+00:00
 layout: post
-slug: 200710nokia-dku-2-cable
+slug: nokia-dku-2-cable
 title: Nokia DKU-2 Cable
 wordpress_id: 127
 categories:

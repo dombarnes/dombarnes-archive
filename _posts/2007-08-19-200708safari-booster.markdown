@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-08-19 09:28:33+00:00
 layout: post
-slug: 200708safari-booster
+slug: safari-booster
 title: Safari Booster
 wordpress_id: 148
 categories:

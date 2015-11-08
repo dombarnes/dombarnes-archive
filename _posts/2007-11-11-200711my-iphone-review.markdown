@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-11-11 14:43:13+00:00
 layout: post
-slug: 200711my-iphone-review
+slug: my-iphone-review
 title: My iPhone Review
 wordpress_id: 122
 categories:
@@ -63,7 +63,7 @@ Love Mail. Its beautiful. Reading email is clear, you can double tap to zoom or 
 
 
 
-Safari/EDGE/WiFi 
+Safari/EDGE/WiFi
 
 
 

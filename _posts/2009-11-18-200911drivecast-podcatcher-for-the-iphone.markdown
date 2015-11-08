@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2009-11-18 14:17:14+00:00
 layout: post
-slug: 200911drivecast-podcatcher-for-the-iphone
+slug: drivecast-podcatcher-for-the-iphone
 title: DriveCast - Podcatcher for the iPhone
 wordpress_id: 57
 categories:

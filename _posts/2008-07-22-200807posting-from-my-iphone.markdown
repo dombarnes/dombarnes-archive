@@ -3,7 +3,7 @@ author: domster83
 comments: false
 date: 2008-07-22 14:54:43+00:00
 layout: post
-slug: 200807posting-from-my-iphone
+slug: posting-from-my-iphone
 title: Posting from my iPhone
 wordpress_id: 74
 categories:

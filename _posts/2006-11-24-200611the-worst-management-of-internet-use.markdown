@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2006-11-24 13:21:47+00:00
 layout: post
-slug: 200611the-worst-management-of-internet-use
+slug: the-worst-management-of-internet-use
 title: The worst management of internet use
 wordpress_id: 218
 categories:

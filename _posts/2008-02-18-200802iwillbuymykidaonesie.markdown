@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-02-18 20:08:31+00:00
 layout: post
-slug: 200802iwillbuymykidaonesie
+slug: iwillbuymykidaonesie
 title: IWillBuyMyKidAOnesie
 wordpress_id: 98
 categories:

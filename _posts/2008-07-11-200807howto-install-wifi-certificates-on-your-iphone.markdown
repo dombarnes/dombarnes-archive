@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-07-11 22:35:45+00:00
 layout: post
-slug: 200807howto-install-wifi-certificates-on-your-iphone
+slug: howto-install-wifi-certificates-on-your-iphone
 title: 'HOWTO: Install WiFi Certificates on your iPhone'
 wordpress_id: 75
 categories:
@@ -18,7 +18,7 @@ tags:
 ---
 
 **Update (9 December 2011)**
-When I first published this post in 2008 (still popular, 3 years later with 6000+ views to date), it seemed like a unknown trick for a small majority of users, usually in the enterprise. 
+When I first published this post in 2008 (still popular, 3 years later with 6000+ views to date), it seemed like a unknown trick for a small majority of users, usually in the enterprise.
 It was written with iOS (formerly iPhone OS) 2.0 which has since been superseded by a few major updates.
 
 

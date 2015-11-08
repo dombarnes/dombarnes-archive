@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2011-05-03 16:19:47+00:00
 layout: post
-slug: 201105dfll-plugin-yjsoon
+slug: dfll-plugin-yjsoon
 title: 'DFLL Plugin :: yjsoon'
 wordpress_id: 49
 categories:

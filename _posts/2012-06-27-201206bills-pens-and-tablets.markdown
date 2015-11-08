@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2012-06-27 13:41:51+00:00
 layout: post
-slug: 201206bills-pens-and-tablets
+slug: bills-pens-and-tablets
 title: Bill's Pens and Tablets
 wordpress_id: 28
 categories:
@@ -16,7 +16,7 @@ categories:
 
 
 <blockquote>it's never going to work on a device where you don't have keyboard-type input. I mean, students aren't there just to read things — they're supposed to actually be able to write and communicate
-> 
+>
 > </blockquote>
 
 
@@ -28,7 +28,7 @@ categories:
 
 
 <blockquote>We think that work with the pen that Microsoft pioneered will become a mainstream for students. It can give you a device that you can not only read, but also create documents at the same time.
-> 
+>
 > </blockquote>
 
 

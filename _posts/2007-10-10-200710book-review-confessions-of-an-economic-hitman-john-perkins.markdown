@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-10-10 18:00:09+00:00
 layout: post
-slug: 200710book-review-confessions-of-an-economic-hitman-john-perkins
+slug: book-review-confessions-of-an-economic-hitman-john-perkins
 title: 'Book Review: Confessions of an Economic Hitman - John Perkins'
 wordpress_id: 133
 categories:

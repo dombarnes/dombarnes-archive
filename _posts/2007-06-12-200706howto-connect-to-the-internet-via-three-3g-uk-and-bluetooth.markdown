@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-06-12 23:35:13+00:00
 layout: post
-slug: 200706howto-connect-to-the-internet-via-three-3g-uk-and-bluetooth
+slug: howto-connect-to-the-internet-via-three-3g-uk-and-bluetooth
 title: 'HOWTO: Connect to the internet via Three (3G UK) and bluetooth'
 wordpress_id: 164
 categories:

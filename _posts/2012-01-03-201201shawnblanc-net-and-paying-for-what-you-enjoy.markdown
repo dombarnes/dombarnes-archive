@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2012-01-03 13:12:28+00:00
 layout: post
-slug: 201201shawnblanc-net-and-paying-for-what-you-enjoy
+slug: shawnblanc-net-and-paying-for-what-you-enjoy
 title: ShawnBlanc.net and paying for what you enjoy
 wordpress_id: 33
 categories:

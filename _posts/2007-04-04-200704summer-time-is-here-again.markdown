@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-04-04 22:55:26+00:00
 layout: post
-slug: 200704summer-time-is-here-again
+slug: summer-time-is-here-again
 title: Summer time is here again
 wordpress_id: 176
 categories:

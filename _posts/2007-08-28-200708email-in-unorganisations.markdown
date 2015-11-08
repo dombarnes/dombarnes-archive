@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-08-28 21:51:57+00:00
 layout: post
-slug: 200708email-in-unorganisations
+slug: email-in-unorganisations
 title: email in (un)organisations
 wordpress_id: 144
 categories:

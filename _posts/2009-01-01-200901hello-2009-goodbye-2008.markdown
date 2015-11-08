@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2009-01-01 18:16:31+00:00
 layout: post
-slug: 200901hello-2009-goodbye-2008
+slug: hello-2009-goodbye-2008
 title: Hello 2009. Goodbye 2008.
 wordpress_id: 66
 categories:

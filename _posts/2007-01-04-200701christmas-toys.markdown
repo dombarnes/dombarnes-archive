@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-01-04 23:38:39+00:00
 layout: post
-slug: 200701christmas-toys
+slug: christmas-toys
 title: Christmas toys
 wordpress_id: 203
 categories:

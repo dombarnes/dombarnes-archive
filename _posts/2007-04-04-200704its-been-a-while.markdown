@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-04-04 09:37:37+00:00
 layout: post
-slug: 200704its-been-a-while
+slug: its-been-a-while
 title: It's been a while
 wordpress_id: 177
 categories:

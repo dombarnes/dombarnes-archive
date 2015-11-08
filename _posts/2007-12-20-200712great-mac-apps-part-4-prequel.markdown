@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-12-20 00:34:21+00:00
 layout: post
-slug: 200712great-mac-apps-part-4-prequel
+slug: great-mac-apps-part-4-prequel
 title: Great Mac Apps - Part 4 (prequel)
 wordpress_id: 109
 categories:

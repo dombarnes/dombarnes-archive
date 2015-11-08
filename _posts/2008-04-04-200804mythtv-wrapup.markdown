@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-04-04 06:51:39+00:00
 layout: post
-slug: 200804mythtv-wrapup
+slug: mythtv-wrapup
 title: MythTV - Wrapup
 wordpress_id: 87
 categories:

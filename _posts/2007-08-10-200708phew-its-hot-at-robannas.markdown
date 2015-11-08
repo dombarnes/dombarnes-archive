@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-08-10 20:27:59+00:00
 layout: post
-slug: 200708phew-its-hot-at-robannas
+slug: phew-its-hot-at-robannas
 title: Phew! Its hot at Robannas
 wordpress_id: 153
 categories:

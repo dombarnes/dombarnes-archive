@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2009-03-17 21:32:46+00:00
 layout: post
-slug: 200903howto-install-a-wim-image-in-vmware-fusion
+slug: howto-install-a-wim-image-in-vmware-fusion
 title: 'HOWTO: Install a WIM Image in VMWare Fusion'
 wordpress_id: 62
 categories:

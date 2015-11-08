@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2008-01-29 19:05:56+00:00
 layout: post
-slug: 200801leopards-in-my-house
+slug: leopards-in-my-house
 title: Leopards in my house!
 wordpress_id: 102
 categories:

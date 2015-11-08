@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-04-09 18:05:20+00:00
 layout: post
-slug: 200704birmingham-birmingcheese-and-then-a-birmingbap
+slug: birmingham-birmingcheese-and-then-a-birmingbap
 title: Birmingham, Birmingcheese and then a Birmingbap
 wordpress_id: 175
 categories:

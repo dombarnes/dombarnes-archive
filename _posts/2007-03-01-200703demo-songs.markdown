@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-03-01 23:46:22+00:00
 layout: post
-slug: 200703demo-songs
+slug: demo-songs
 title: Demo Songs
 wordpress_id: 190
 categories:

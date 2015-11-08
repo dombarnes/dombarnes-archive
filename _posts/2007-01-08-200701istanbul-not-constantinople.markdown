@@ -3,7 +3,7 @@ author: domster83
 comments: true
 date: 2007-01-08 23:02:24+00:00
 layout: post
-slug: 200701istanbul-not-constantinople
+slug: istanbul-not-constantinople
 title: Istanbul (Not Constantinople)
 wordpress_id: 201
 categories:
