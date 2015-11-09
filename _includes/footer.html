@@ -16,13 +16,13 @@
         <ul class="social-media-list">
           {% if site.owner.github %}
           <li>
-            {% include icon-github.html username=site.github_username %}
+            {% include icon-github.html username=site.owner.github %}
           </li>
           {% endif %}
 
           {% if site.owner.twitter %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            {% include icon-twitter.html username=site.owner.twitter %}
           </li>
           {% endif %}
         </ul>
