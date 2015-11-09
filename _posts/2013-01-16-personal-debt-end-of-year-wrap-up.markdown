@@ -5,16 +5,15 @@ date: 2013-01-16 23:18:43+00:00
 layout: post
 slug: personal-debt-end-of-year-wrap-up
 title: 'Personal Debt: End Of Year Wrap Up'
-wordpress_id: 19
 categories:
 - personal debt
 ---
 
-At the beginning of the year, I started a series of blog posts loosely based on a similar project over on Consumerist Commentary, the idea being to report back on my rather large credit card debt, examining where I'm spending and trying to reduce that where possible.I set the goal of reducing my debt by £3000. In January, this seemed like a stretch goal but one that was at least within the possibility of achieving. As I sit here in January 2013, I can report that I missed my goal by a long shot.  
+At the beginning of the year, I started a series of blog posts loosely based on a similar project over on Consumerist Commentary, the idea being to report back on my rather large credit card debt, examining where I'm spending and trying to reduce that where possible.I set the goal of reducing my debt by £3000. In January, this seemed like a stretch goal but one that was at least within the possibility of achieving. As I sit here in January 2013, I can report that I missed my goal by a long shot.
 
-Take a look at the final results for my debt at the start of December 2012, and then the final results on 31 December.  
+Take a look at the final results for my debt at the start of December 2012, and then the final results on 31 December.
 
-So you can clearly see that instead of a healthy £3000 reduction, I've managed to increase my debt by £1100. Needless to say I'm not happy but when I reflect on the year it's clear why.  
+So you can clearly see that instead of a healthy £3000 reduction, I've managed to increase my debt by £1100. Needless to say I'm not happy but when I reflect on the year it's clear why.
 
 ![](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbe314e4b09c7c8a7a00a7/1358684949084/debt-dec-2012.png)
 

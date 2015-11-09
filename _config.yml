@@ -12,8 +12,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Writing for writings sake.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jekyll.dombarnes.com" # the base hostname & protocol for your site
-twitter_username: domster
-github_username:  dombarnes
+permalink: /:year/:title.html
+paginate: 10
+paginate_path: /page:num
+timezone:    Europe/London
 
 owner:
   name:           Dom Barnes
@@ -31,24 +33,35 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:    https://plus.google.com/u/0/+JohnDavison-railstutor/?rel=author
 
+# Header links
 links:
   - title: Home
     url: /
   - title: Contact
     url: /contact.html
   - title: Projects
-    url: /projects/chromium-updater.html
+    url: /projects/chromium-updater/
   - title: Colophon
     url: /colophon.html
 
-timezone:    Europe/London
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 # Build settings
 markdown: kramdown
-gems: ['kramdown', 'jekyll-paginate']
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
-collections:
-- projects
+gems:
+  - kramdown
+  - jekyll-paginate
+
+exclude:
+  - config.ru
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - Procfile
+  - Rakefile
 
 defaults:
   -

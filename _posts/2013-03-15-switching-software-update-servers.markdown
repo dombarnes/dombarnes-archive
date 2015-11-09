@@ -4,7 +4,6 @@ date: 2013-03-15 09:57:57+00:00
 layout: post
 slug: switching-software-update-servers
 title: Switching Software Update Servers
-wordpress_id: 11
 ---
 
 If you're like me, working on a laptop between home and the office, you might find yourself switching Software Update Servers quite often.
