@@ -17,7 +17,7 @@ tags:
 - xp
 ---
 
-![](http://static.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbdd87e4b075d7a3c11a98/1211323273000/picture-1.jpg?format=original)
+![](/assets/picture-1.jpg)
 I'm an Apple fan. Thats no secret. I like the products, I like the design, the interfaces, the simplicity and yet ability to be powerfully complex. I like the whole shebang (sp?). I also liked the new "[Get A Mac](http://www.apple.com/getamac/ads/)" adverts they started a while ago.
 
 

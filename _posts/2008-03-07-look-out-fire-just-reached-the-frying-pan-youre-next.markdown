@@ -37,7 +37,7 @@ So if you're interested in hiring an aspiring IT Technician, who is A+ certified
 
 
 
-Otherwise, I'll keep trawling those online job search sites, and watching the hours tick away at work, as the share price drops, as well as my level of concentration and focus. ![](http://static.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbdd87e4b075d7a3c11a7b/1204929921000/shareprice.png?format=original)
+Otherwise, I'll keep trawling those online job search sites, and watching the hours tick away at work, as the share price drops, as well as my level of concentration and focus. ![](/assets/shareprice.png)
 
 
 

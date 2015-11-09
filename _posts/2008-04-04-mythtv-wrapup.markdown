@@ -31,7 +31,7 @@ Once I had that working,  did a quick check and made sure the TV was being rece
 
 
 
-[![](http://static.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbdd87e4b075d7a3c11a8a/1207291311000/mythfrontend.png?format=original)](http://static.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbdd87e4b075d7a3c11a8a/1207291311000/mythfrontend.png?format=original)
+[![](/assets//mythfrontend.png)
 The next step is the part I'm still working on. In order to have a good working machine, you wanna put down that keyboard and use a remote. I got one with my Hauppauge WinTV Nova-T DVB PCI card so I plugged in the receiver and started to follow the instructions here. I have managed to get the remote to be recognised, however  haven't got it to work with MythTV yet. Once I have it all working, I'll post my lircd.conf, hardware.conf and lircrc files for anyone who wants them.
 
 

@@ -18,6 +18,4 @@ I closed down my Virgin Money card so I’m now down the four cards, which feels
 
 One thing I have noticed is that my Numbers spreadsheet is getting progressively slower as I add more content to it. I keep a seperate Sheet for each card, which has a simple table with Date, Description, Amount, Balance and Comments. My Barclaycard also has a Reconciled column which I use to ensure I pay off all my business costs each month. I can simply total the unreconciled columns to make sure they match.
 
-
-
-       [caption id="" align="alignnone" width="591.0"]![personal-debt-chart-oct-nov-2012](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbe375e4b09c7c8a7a00eb/1358685046454/personal_debt_chart_oct_nov_2012.png) personal-debt-chart-oct-nov-2012[/caption]
+![personal-debt-chart-oct-nov-2012](/assets/personal_debt_chart_oct_nov_2012.png)

@@ -14,13 +14,6 @@ After listening to [Marco Arment](http://www.marco.org/2011/07/21/build-and-anal
 I actually found it cheaper at Café Blend, an independent coffee shop run by grumpy staff, than on Amazon.
 In the time it takes the kettle to boil the water, you can grind your beans, set up the Aeropress and then it takes about a minute in total to push the water through, top it up for an Americano, or drink for an espresso.
 
-
-
-
 Highly recommended.
 
-
-
-
-
-[![](http://static.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbdde4e4b075d7a3c11f9c/1358683620756/IMG_0373-225x300.jpg?format=original)](http://static.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbdd89e4b075d7a3c11ac5/1325084302000/IMG_0373.jpg?format=original)
+![](/assets/IMG_0373.jpg)

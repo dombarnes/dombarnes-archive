@@ -29,57 +29,19 @@ Thanks to the kind people at [Devon Cameras](http://devoncamera.co.uk/), I picke
 
 Why did I choose this bag? Well its all thanks to one man. Benjamin Stanley. After a rather sucessfuly [MMUG](http://www.mmug.org.uk) session at the Solihull Apple Store, a few elite mac geeks went to Pizza Hut Pasta Hut. And it was in this establishment that I spotted Ben's own CheesyTina and made my enquiries. After a quick guided tour of the pockets and pouches and the ample laptop area, I was sold.
 
-
-
-
 That night I placed my order and waited. Today it arrived, much to my gross excitement, and I can now present the first unboxing shots.
 
-
-
-
-[caption id="attachment_201" align="aligncenter" width="500" caption="Unboxing"]![](http://static.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbdd88e4b075d7a3c11aa4/1225235364000/cimg0296.jpg?format=original)[/caption]
-
-
-
+![Unboxing](/assets/cimg0296.jpg)
 
 As you may notice, the packaging left a lot to be desired. Compared to my other bag (a Pretty Boy camera bag) it was starkers! No Crumpler cellophane at all!
 
+![The CheesyTina](/assets/cimg0298.jpg)
+The CheesyTina (Full Frontal)
 
+Here it is, in all its free-from-a-box glory, waiting to be filled!. 
 
-
-
-![The CheesyTina](http://static.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbdd88e4b075d7a3c11aa7/1225235366000/cimg0298.jpg?format=original)
-
-
-
-
-
-
-
-
-
-
-    The CheesyTina (Full Frontal)
-
-
-
-
-
-
-
- Here it is, in all its free-from-a-box glory, waiting to be filled!. 
-
-
-
-
-[caption id="attachment_203" align="aligncenter" width="500" caption="Exploded CheesyTina"]![Exploded CheesyTina](http://static.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbdd88e4b075d7a3c11aaa/1225235368000/cimg0299.jpg?format=original)[/caption]
-
-
-
+![Exploded CheesyTina](/assets/cimg0299.jpg)
 
 Exhibit C: The removeable Laptop Case, to fit a mac up to 15"  (yes it first 15.4" widescreens)
-
-
-
 
 I intend on doing a full review, with an indepth tour, and accompanying Flickr set, but need to give it a solid test run with its contents to see how I get on, then I'll be contributing my own whatsinmybag photo to the pool.

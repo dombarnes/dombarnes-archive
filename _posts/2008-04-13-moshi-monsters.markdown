@@ -14,25 +14,13 @@ tags:
 - web
 ---
 
-![Moshi Monsters](http://static.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbdd87e4b075d7a3c11a8f/1208072929000/picture-2.jpg?format=original)
-
-
-
+![Moshi Monsters](/assets//picture-2.jpg)
 
 Meet Flargle. He's my brand new Moshi Monster. Moshi Monsters is a new social networking website, thats really more about making cool monsters and playing games. So what is he like? Well his favourite food is Mr Tea, he likes the colour Cyan, R&B music, and dislikes lemurs. And he's only 1 years old.
 
-
-
-
 So far we've played some cool games, and been shopping. How do you like his windows? He's also got some more fun stuff at home. Why not pop over and [visit him for a bit](http://www.moshimonsters.com/monsters/dom). You can even be his friend so he has some company when I'm at work.
 
-
-
-
-![](http://static.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbdd87e4b075d7a3c11a92/1208073483000/picture-3.jpg?format=original)
-
-
-
+![](/assets/picture-3.jpg)
 
 If you can find one, pick up a beta code from a few lucky people online, or go to Firebox.com and pickup a MoPod for your own special invite code. Moshi Monsters should be open to the public in a few weeks hopefully, so keep checking back.
 

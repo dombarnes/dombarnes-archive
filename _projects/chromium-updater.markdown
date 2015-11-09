@@ -13,4 +13,4 @@ If youâ€™re interested in running the latest nightly build of Chromium, Googleâ€
 Just download and run this app and you will be prompted with the latest build number, and Safari will download the latest build to your regular Safari Downloads location.  
 
 This is now available on [GitHub](https://github.com/dombarnes/ChromiumUpdater). You'll need to compile it yourself in Xcode, or check the downloads section  
-![http://github.com/dombarnes/chromiumupdater](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/t/50fbff56e4b0fa3b922190fc/1358692184274/chromium-updater.png?format=original)  
+![http://github.com/dombarnes/chromiumupdater](/assets/chromium-updater.png)  

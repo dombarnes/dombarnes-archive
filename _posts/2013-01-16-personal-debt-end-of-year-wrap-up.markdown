@@ -15,7 +15,7 @@ Take a look at the final results for my debt at the start of December 2012, and 
 
 So you can clearly see that instead of a healthy £3000 reduction, I've managed to increase my debt by £1100. Needless to say I'm not happy but when I reflect on the year it's clear why.
 
-![](http://static1.squarespace.com/static/50fbdd03e4b09c7c8a79f7ae/50fbdd87e4b075d7a3c11a69/50fbe314e4b09c7c8a7a00a7/1358684949084/debt-dec-2012.png)
+![](/assets/debt-dec-2012.png)
 
 I took a look at my spending this year and categories it. Unsurprisingly the biggest category was car related. As I mentioned earlier this year, I bought a car for work. That's when it all went wrong.
 

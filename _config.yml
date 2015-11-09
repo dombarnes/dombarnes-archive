@@ -39,8 +39,10 @@ links:
     url: /
   - title: Contact
     url: /contact.html
-  - title: Projects
-    url: /projects/chromium-updater/
+  - title: Chromium Updater
+    url: /projects/chromium-updater/    
+  - title: Personal Debt
+    url: /projects/personal-debt/
   - title: Colophon
     url: /colophon.html
 
