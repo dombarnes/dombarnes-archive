@@ -37,9 +37,9 @@ owner:
 # Header links
 links:
   - title: Posts
-    url: /posts
+    url: /posts/
   - title: Photos
-    url: /photos
+    url: /photos/
 
 footer_links:
   - title: Colophon
