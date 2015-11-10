@@ -18,7 +18,6 @@ I write here about a lot of stuff, technology, money, life, the usual stuff. I a
 **Current Gear**
 
 MacBook Air Mid-2011 1.8GHz Core i7 4GB 256GB SSD  
-iPhone 4S 64GB White  
-iPad (3) 32GB White  
-  
-
+iPhone 6S 64GB White  
+Apple Watch Sport in Black  
+iPad 3 32GB White  

@@ -8,13 +8,14 @@
 # Site settings
 title: Dom Barnes
 email: dom@dombarnes.com
+meta_description: The personal website of Dom Barnes
 description: > # this means to ignore newlines until "baseurl:"
-  Writing for writings sake.
+  Hi. I'm <a href="//twitter.com/domster">@domster</a>. I livei in Birmingham and work at Trilby. I occasionally play bass, pretend to code and take photographs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jekyll.dombarnes.com" # the base hostname & protocol for your site
-permalink: /:year/:title.html
-paginate: 10
-paginate_path: /page:num
+permalink: /:title.html
+# paginate: 10
+# paginate_path: /page:num
 timezone:    Europe/London
 
 owner:
@@ -35,16 +36,20 @@ owner:
 
 # Header links
 links:
-  - title: Home
-    url: /
+  - title: Posts
+    url: /posts
+  - title: Photos
+    url: /photos
+
+footer_links:
+  - title: Colophon
+    url: /colophon.html
   - title: Contact
     url: /contact.html
   - title: Chromium Updater
     url: /projects/chromium-updater/    
   - title: Personal Debt
     url: /projects/personal-debt/
-  - title: Colophon
-    url: /colophon.html
 
 collections:
   projects:

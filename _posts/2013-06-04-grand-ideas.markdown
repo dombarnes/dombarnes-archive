@@ -1,11 +1,8 @@
 ---
-
-comments: true
 date: 2013-06-04 12:50:06+00:00
 layout: post
 slug: grand-ideas
 title: All the best ideas are big ones
-wordpress_id: 10
 ---
 
 We all have them. Big plans. Great ideas. If only we had the money and time.   
