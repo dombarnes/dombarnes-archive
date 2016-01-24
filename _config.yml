@@ -12,8 +12,8 @@ meta_description: The personal website of Dom Barnes
 description: > # this means to ignore newlines until "baseurl:"
   Hi. I'm <a href="//twitter.com/domster">@domster</a>. I livei in Birmingham and work at Trilby. I occasionally play bass, pretend to code and take photographs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jekyll.dombarnes.com" # the base hostname & protocol for your site
-permalink: /:title.html
+url: "http://archive.dombarnes.com" # the base hostname & protocol for your site
+permalink: /:year/:month/:day/:title
 # paginate: 10
 # paginate_path: /page:num
 timezone:    Europe/London
@@ -22,7 +22,7 @@ owner:
   name:           Dom Barnes
   # avatar:         railstutor.png
   email:          dom@dombarnes.com
-  conversion:     http://jekyll.dombarnes.com
+  conversion:     http://archive.dombarnes.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:       domster
   github:        dombarnes
@@ -31,27 +31,14 @@ owner:
   instagram:     dombarnes
   flickr:        domster83
   tumblr:        dombarnes
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:    https://plus.google.com/u/0/+JohnDavison-railstutor/?rel=author
 
 # Header links
 links:
-  - title: Archive
-    url: /archives/
-  - title: New Posts
+  - title: Full List
     url: /posts/  
-  - title: Photos
-    url: /photos/
-
 footer_links:
-  - title: Colophon
-    url: /colophon.html
-  - title: Contact
-    url: /contact.html
-  - title: Chromium Updater
-    url: /projects/chromium-updater/    
-  - title: Personal Debt
-    url: /projects/personal-debt/
+  - title: Main Site
+    url: http://dombarnes.com
 
 # Build settings
 markdown: kramdown
@@ -68,15 +55,6 @@ exclude:
   - Procfile
   - Rakefile
 
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-  archives:
-    output: true
-    permalink: /:year/:month/:day/:title
-
-
 defaults:
   -
     scope:
@@ -85,15 +63,3 @@ defaults:
     values:
       author: "Dom Barnes"
       layout: "default"
-  -
-    scope:
-      path: "archives/"
-      type: "posts"
-    values:
-      author: "Dom Barnes"
-  -
-    scope:
-      path: "projects"
-      type: "pages"
-    values:
-      author: "Dom Barnes"
