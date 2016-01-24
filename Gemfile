@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.2.3'
+ruby '2.3.0'
 
 gem 'jekyll'
 gem 'kramdown'
@@ -8,3 +8,4 @@ gem 'rack-cache'
 gem 'rake'
 gem 'puma'
 gem 'jekyll-paginate'
+gem 'jekyll-sitemap'

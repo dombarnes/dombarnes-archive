@@ -36,8 +36,10 @@ owner:
 
 # Header links
 links:
-  - title: Posts
-    url: /posts/
+  - title: Archive
+    url: /archives/
+  - title: New Posts
+    url: /posts/  
   - title: Photos
     url: /photos/
 
@@ -51,16 +53,12 @@ footer_links:
   - title: Personal Debt
     url: /projects/personal-debt/
 
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-
 # Build settings
 markdown: kramdown
 gems:
   - kramdown
   - jekyll-paginate
+  - jekyll-sitemap
 
 exclude:
   - config.ru
@@ -70,10 +68,32 @@ exclude:
   - Procfile
   - Rakefile
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  archives:
+    output: true
+    permalink: /:year/:month/:day/:title
+
+
 defaults:
   -
     scope:
-      path: ""
+      path: "_posts"
       type: "posts"
+    values:
+      author: "Dom Barnes"
+      layout: "default"
+  -
+    scope:
+      path: "archives/"
+      type: "posts"
+    values:
+      author: "Dom Barnes"
+  -
+    scope:
+      path: "projects"
+      type: "pages"
     values:
       author: "Dom Barnes"
