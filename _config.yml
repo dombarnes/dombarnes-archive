@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hi. I'm <a href="//twitter.com/domster">@domster</a>. I livei in Birmingham and work at Trilby. I occasionally play bass, pretend to code and take photographs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://archive.dombarnes.com" # the base hostname & protocol for your site
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
 # paginate: 10
 # paginate_path: /page:num
 timezone:    Europe/London
